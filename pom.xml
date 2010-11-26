@@ -10,7 +10,7 @@
 	<name>Palava JMS</name>
 	<version>1.0-SNAPSHOT</version>
 	<scm>
-		<developerConnection>scm:svn:https://palava.svn.cosmocode.de/palava-jms/trunk</developerConnection>
+		<developerConnection>scm:git:git@github.com:palava/${project.artifactId}.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
